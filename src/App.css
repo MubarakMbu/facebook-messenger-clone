@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.app__form {
+  padding: 20px;
+  position: fixed;
+  bottom: 0px;
+  z-index: 1;
+  background-color: #c9c9cb;
+  width: 95%;
+  margin: 20px;
+  flex: 2;
+}
+
+.app__formcontrol {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.app__iconButton {
+  flex: 0;
+}
+
+.app__input {
+  flex : 1;
+}
+
+.welcome__heading{
+  margin: 20px !important;
+
+}
+
+.image__messenger{
+  margin: 20px;
+}
